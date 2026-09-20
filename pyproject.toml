@@ -1,0 +1,16 @@
+[project]
+name = "week3-ex"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "geopandas>=1.1.4",
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pathlib>=1.0.1",
+    "pyarrow>=25.0.1",
+    "scikit-learn>=1.9.1",
+]
